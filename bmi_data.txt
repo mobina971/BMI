@@ -1,0 +1,4 @@
+Name : ali, Age : 54, Height : 1.89, Weight : 1.89, BMI : 24.36
+Name : kobra, Age : 41, Height : 1.60, Weight : 1.60, BMI : 33.59
+Name : kokab, Age : 65, Height : 1.50, Weight : 1.50, BMI : 26.67
+Name : hamid, Age : 31, Height : 1.85, Weight : 1.85, BMI : 30.68
